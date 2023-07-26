@@ -1,0 +1,20 @@
+div{
+    /* margin: 100px; */
+    text-align: center;
+    align-items: center;
+    border-radius: 20px;
+    border-width: 20px;
+    width: 500px;
+    height: 500px;
+    left: 300px;
+    padding-bottom: 0px;
+   border: 2px solid black;
+   position: absolute;
+}
+article{
+    position: relative;
+    align-items: flex-end;
+    margin:40%;
+    max-block-size: 200%;
+    
+}
